@@ -1,0 +1,8 @@
+-   id: theme-check
+    name: theme-check
+    entry: theme-check --auto-correct
+    language: ruby
+    'types': [liquid]
+    args: []
+    require_serial: false
+    additional_dependencies: []
